@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-//  显示声明关键字 extern int num 1.先声明，后赋值；2.初始化
+//1.显示声明关键字 extern int num 1.先声明，后赋值；2.初始化
 void test01() 
 {
 	printf("char大小=%d\n",sizeof(char));// 1 8
